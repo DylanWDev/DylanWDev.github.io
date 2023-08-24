@@ -1,7 +1,7 @@
 # **My Bootcamp Journey** <img src="img/minecraft.gif" alt="minecraft zombie riding a chicken gif" width="75">
 ## ***Week 1*** 
 
-<div style="background-color: Hex #9966CC">
+<div style="background-color: #9966CC;">
 <pre>
 I got to meet and learn about my fellow bootcampers
 I learned about Git and GitHub
