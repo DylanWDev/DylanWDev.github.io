@@ -17,5 +17,6 @@ Initially I had some challenges trying to setup Git and Github and was able to o
  - git commit
  - git pull
  - git checkout
+ - touch
 
 
