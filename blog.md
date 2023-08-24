@@ -1,7 +1,9 @@
 # **My Bootcamp Journey** <img src="img/minecraft.gif" alt="minecraft zombie riding a chicken gif" width="75">
 ## ***Week 1*** 
 
-#### In my first week at bootcamp, I was expecting some nerves and confusion. However, once I got in and started learning with the other bootcampers, I felt more confortable and excited for the upcoming months. I'm excited to learn more about Git, and from what I have heard from my peers, I am looking forward to studying javascript. One thing you could learn about me from reading this blog is I have a 1 year old black lab named Sokka.
+#### In my first week at bootcamp, I was expecting some nerves and confusion. However, once I got in and started learning with the other bootcampers, I felt more confortable and excited for the upcoming months. I'm excited to learn more about Git, and from what I have heard from my peers, I am looking forward to studying javascript. One thing you could learn about me from reading this blog is I have a 1 year old black lab named Sokka. 
+![picture of my dog sokka](xPowerOutage.github.io/img/Screenshot_20230824_193804_Gallery.jpg)
+
 ```
 Highlights of week 1:
 I got to meet and learn about my fellow bootcampers
