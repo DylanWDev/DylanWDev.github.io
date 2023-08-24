@@ -1,6 +1,4 @@
----
-# **My Bootcamp Journey** <img src="img/minecraft.gif" alt="minecraft zombie riding a chicken gif" width="75">  
----
+# **My Bootcamp Journey** <img src="img/minecraft.gif" alt="minecraft zombie riding a chicken gif" width="75">    
 ## ***Week 1***  
 ```
 I got to meet and learn about my fellow bootcampers
