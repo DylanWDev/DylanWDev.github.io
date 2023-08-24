@@ -1,1 +1,1 @@
-# Hello! Welcome to my blog page where you can view and keep track of everything I do during the BootCamp.
+# Hello and welcome to my blog page! I'm thrilled to have you here as I embark on an exciting journey during the
