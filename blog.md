@@ -23,24 +23,5 @@ I had some challenges trying to set up Git and Github and was able to overcome t
  - git checkout
  - touch
 
-### Code Snippet
-This is some JavaScript code from my final project during the Awesome Inc Intro to Web class.
-```
-// this const sets up the joke text
-const jokeResult = document.getElementById("jokeResult");
 
-// this const sets up the joke button
-const jokeButton = document.getElementById("jokeButton");
-jokeButton.addEventListener("click", getData);
-
-// this fuction calls the api and creates an h1 with innertext
-async function getData(e) {
-  const response = await fetch(
-    "https://v2.jokeapi.dev/joke/Programming?blacklistFlags=nsfw,religious,political,racist,sexist,explicit&type=single"
-  );
-  const data = await response.json();
-  const theJoke = document.createElement("h1");
-  jokeResult.innerText = data.joke;
-  jokeResult.append(theJoke); // this adds the text to the h1 // appneds to html
-  ```
 
