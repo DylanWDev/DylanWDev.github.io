@@ -13,7 +13,7 @@ I learned how to create a repository and push and pull files
 I had some challenges trying to set up Git and Github and was able to overcome them
 ```
 
-#### A few commands I leanred in Git:
+#### A few commands I learned in Git:
  - git --version
  - git status
  - git init
