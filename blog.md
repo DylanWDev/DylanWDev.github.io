@@ -23,7 +23,7 @@ I had some challenges trying to set up Git and Github and was able to overcome t
  - git checkout
  - touch
   
-### Code Snippet
+#### Code Snippet
 This is some JavaScript code from my final project during the Awesome Inc Intro to Web class.
 ```
 // this const sets up the joke text
