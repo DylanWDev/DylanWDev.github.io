@@ -2,7 +2,7 @@
 ## ***Week 1*** 
 
 #### In my first week at bootcamp, I was expecting some nerves and confusion. However, once I got in and started learning with the other bootcampers, I felt more confortable and excited for the upcoming months. I'm excited to learn more about Git, and from what I have heard from my peers, I am looking forward to studying javascript. One thing you could learn about me from reading this blog is I have a 1 year old black lab named Sokka. 
-<img src="img/Screenshot_20230824_193804_Gallery.jpg" alt="picture of my dog sokka" style="height:150px;width:150px;text-align:center">
+<img src="img/Screenshot_20230824_193804_Gallery.jpg" alt="picture of my dog sokka" width="150">
 
 ```
 Highlights of week 1:
