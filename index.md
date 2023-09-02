@@ -6,11 +6,11 @@
 
 ```
 Highlights of week 1:
-I got to meet and learn about my fellow bootcampers
-I learned about Git and GitHub
-I learned how to use a few of git's commands
-I learned how to create a repository and push and pull files
-I had some challenges trying to set up Git and Github and was able to overcome them
+ - I got to meet and learn about my fellow bootcampers
+ - I learned about Git and GitHub
+ - I learned how to use a few of git's commands
+ - I learned how to create a repository and push and pull files
+ - I had some challenges trying to set up Git and Github and was able to overcome them
 ```
 
 #### A few commands I learned in Git:
@@ -44,4 +44,24 @@ async function getData(e) {
   jokeResult.append(theJoke); // this adds the text to the h1 // appneds to html
   ```
 
+## ***Week 2*** 
 
+#### What is something you wish you could do but currently do not have the coding skills to accomplish?
+ > I wish I could do is JavaScript because I've seen so many amazing webpages and I have always wanted to create something similar.
+
+#### What are you struggling with?
+ > I am struggling with the amont of content javascript has and being able to understand it all.
+
+#### How do you solve a problem? 
+ > I solve my problems by searching on google and looking at various sources online.
+
+#### What methods do you use to help yourself get unstuck?
+ > I either ask someone to point me in the right direction or take a break from it and come back to it with a clear mind.  
+
+```
+Highlights of week 1:
+ - Learning more about HTML and CSS
+ - Finishing the "Structuring a Page of Content" assignment
+ - Learning how to make an image move around on a page
+ - Learning how to add a sound to a page
+```
