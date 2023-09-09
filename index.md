@@ -59,9 +59,25 @@ async function getData(e) {
  > I either ask someone to point me in the right direction or take a break from it and come back to it with a clear mind.  
 
 ```
-Highlights of week 1:
+Highlights of week 2:
  - Learning more about HTML and CSS
  - Finishing the "Structuring a Page of Content" assignment
  - Learning how to make an image move around on a page
  - Learning how to add a sound to a page
 ```
+
+## ***Week 3*** 
+
+#### What are your thoughts about the roles HTML, CSS, and JavaScript play in the process of rendering content and providing a user experience?
+> HTML structures content, CSS styles it, and JavaScript adds interactivity, creating a seamless web user experience. Balancing these three is crucial for modern, user-friendly sites.
+
+#### What are some objects that your blog incorporates?
+> Some objects my blog incorporates are the Minecraft gif and the picture of my dog.
+
+```
+Highlights of week 3:
+ - Completing the Silly Story Generator and Pseudocode project
+ - I became more familiar with JS syntax
+ - I learned the correct process for debugging my code
+
+
