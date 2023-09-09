@@ -79,5 +79,6 @@ Highlights of week 3:
  - Completing the Silly Story Generator and Pseudocode project
  - I became more familiar with JS syntax
  - I learned the correct process for debugging my code
+```
 
 
