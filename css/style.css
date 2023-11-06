@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(48, 46, 48);
+}
+
+#intro {
+    color: #DBD3D8;
+}
+
+#about {
+    color: #DBD3D8;
+}
+
+.vertical-center {
+    display: flex;
+    align-items: center;
+}
+
+/* #about_text {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+} */
+
+/* #2E5E4E 
+
+#93A7AA
+
+#A7B5B9 */
