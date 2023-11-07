@@ -1,0 +1,14 @@
+
+
+body {
+  background-color: #302e30;
+}
+
+#home_page {
+  height: 100vh;
+  background-color: #302e30;
+}
+
+#intro, #about {
+  color: #DBD3D8;
+}
