@@ -1,14 +1,17 @@
-
-
-body {
-  background-color: #302e30;
+.__className_e66fe9 {
+  margin: 0;
+  padding: 0;
 }
 
 #home_page {
   height: 100vh;
-  background-color: #302e30;
+  background-color: #332e33;
 }
 
 #intro, #about {
   color: #DBD3D8;
+}
+
+#intro_color {
+  color: #ea36c3
 }
