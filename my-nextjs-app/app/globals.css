@@ -1,17 +1,36 @@
-.__className_e66fe9 {
-  margin: 0;
-  padding: 0;
-}
-
-#home_page {
+#home_page, html {
   height: 100vh;
-  background-color: #0c1116;
+  overflow: hidden;
+  background: radial-gradient(ellipse at bottom, #1b2735 0%,  #090a0f 100%);
 }
 
-#intro, #about {
-  color: #DBD3D8;
+/* styles/globals.css */
+.star-field {
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
 }
 
-#intro_color {
-  color: #b30a53;
+.star {
+  position: absolute;
+  border-radius: 50%;
+  transition: opacity 2s alternate;
+  transform-origin: center;
+}
+
+/* Define the twinkle animation for stars with the "twinkle" class */
+.star.twinkle {
+  animation: twinkle 2s infinite alternate;
+}
+
+@keyframes twinkle {
+  0% {
+    opacity: 0.2;
+    transform: scale(1.2);
+  }
+  100% {
+    opacity: 1;
+    transform: scale(1.4);
+  }
 }
