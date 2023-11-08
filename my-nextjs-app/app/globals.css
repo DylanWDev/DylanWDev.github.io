@@ -5,7 +5,7 @@
 
 #home_page {
   height: 100vh;
-  background-color: #332e33;
+  background-color: #0c1116;
 }
 
 #intro, #about {
@@ -13,5 +13,5 @@
 }
 
 #intro_color {
-  color: #ea36c3
+  color: #b30a53;
 }

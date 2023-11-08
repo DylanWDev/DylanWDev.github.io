@@ -10,6 +10,7 @@ export default function Home() {
                 <div className="text-center">
                     <h1 id="intro">Hello, I'm <span id="intro_color">Dylan Wyrick</span></h1>
                     <h1 id="intro">I'm a <span id="intro_color">full stack</span> web developer.</h1>
+                    <button>hello</button>
                 </div>
             </div>
         </div>
