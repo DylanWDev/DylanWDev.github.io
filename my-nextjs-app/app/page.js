@@ -1,14 +1,17 @@
 "use client"
 import React from 'react';
-import ReactDOM from 'react-dom';
-import Stars from './Stars';
+import Home from './Home';
 
 // Render the Home component into the root element
-export default function Home(){
+export default function Page(){
   return (
     <>
       <div className="star-container">
-        <Stars />
+        <Home />
+      </div>
+
+      <div className='navbar'>
+        <a>blog</a>
       </div>
     </>
   )

@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 
-export default function Stars() {
+export default function Home() {
   const [stars, setStars] = useState([]);
 
   const generateStars = () => {
@@ -41,22 +41,31 @@ export default function Stars() {
   }, []);
 
   return (
-    <div className="star-field">
-      {stars.map((star, index) => (
-        <div
-          key={index}
-          className={`star twinkle`} // Apply the "twinkle" class to all stars
-          style={{
-            width: star.size + 'px',
-            height: star.size + 'px',
-            backgroundColor: star.color,
-            left: star.x + 'px',
-            top: star.y + 'px',
-            opacity: star.opacity,
-            animation: `twinkle 2s infinite alternate ${star.animationDelay}`,
-          }}
-        ></div>
-      ))}
+    <div>
+      <div className="star-container">
+      <div className="center-content">
+        <div id="about_text" className="text-center">
+          <h1 id="intro">Hi, My <br /> name is <span style={{ color: '#2E5E4E', fontWeight: 'bold' }}>Dylan</span></h1>
+        </div>
+      </div>
+      <div className="star-field">
+        {stars.map((star, index) => (
+          <div
+            key={index}
+            className={`star twinkle`} // Apply the "twinkle" class to all stars
+            style={{
+              width: star.size + 'px',
+              height: star.size + 'px',
+              backgroundColor: star.color,
+              left: star.x + 'px',
+              top: star.y + 'px',
+              opacity: star.opacity,
+              animation: `twinkle 2s infinite alternate ${star.animationDelay}`,
+            }}
+          ></div>
+        ))}
+      </div>
+    </div>
     </div>
   );
 }
